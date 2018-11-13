@@ -1,0 +1,26 @@
+2018-09-30 15:37:41,313 dataprocess.py [line:59] d:\python\homework3\0303\数据处理\log\admin.log ERROR please check your password
+2018-09-30 15:37:41,315 dataprocess.py [line:62] d:\python\homework3\0303\数据处理\log\admin.log ERROR no user admin exist
+2018-09-30 15:38:31,595 dataprocess.py [line:59] d:\python\homework3\0303\数据处理\log\admin.log ERROR please check your password
+2018-09-30 15:43:40,489 dataprocess.py [line:56] d:\python\homework3\0303\数据处理\log\admin.log INFO login successfully
+2018-09-30 15:44:26,805 dataprocess.py [line:72] d:\python\homework3\0303\数据处理\log\admin.log INFO admin register as ADMIN successfully, auto exit
+2018-09-30 15:45:57,354 dataprocess.py [line:56] d:\python\homework3\0303\数据处理\log\admin.log INFO login successfully
+2018-09-30 15:47:45,550 dataprocess.py [line:72] d:\python\homework3\0303\数据处理\log\admin.log INFO admin register as ADMIN successfully, auto exit
+2018-09-30 15:48:19,658 dataprocess.py [line:56] d:\python\homework3\0303\数据处理\log\admin.log INFO login successfully
+2018-09-30 15:50:46,674 dataprocess.py [line:56] d:\python\homework3\0303\数据处理\log\admin.log INFO login successfully
+2018-09-30 15:52:21,301 dataprocess.py [line:72] d:\python\homework3\0303\数据处理\log\admin.log INFO admin register as ADMIN successfully, auto exit
+2018-09-30 15:52:44,482 dataprocess.py [line:56] d:\python\homework3\0303\数据处理\log\admin.log INFO login successfully
+2018-09-30 15:54:06,542 dataprocess.py [line:72] d:\python\homework3\0303\数据处理\log\admin.log INFO admin register as ADMIN successfully, auto exit
+2018-09-30 15:54:29,873 dataprocess.py [line:56] d:\python\homework3\0303\数据处理\log\admin.log INFO login successfully
+2018-09-30 15:55:46,054 dataprocess.py [line:72] d:\python\homework3\0303\数据处理\log\admin.log INFO admin register as ADMIN successfully, auto exit
+2018-09-30 15:56:05,394 dataprocess.py [line:56] d:\python\homework3\0303\数据处理\log\admin.log INFO login successfully
+2018-09-30 17:29:25,415 dataprocess.py [line:72] d:\python\homework3\0303\数据处理\log\admin.log INFO admin register as ADMIN successfully, auto exit
+2018-09-30 17:30:22,748 dataprocess.py [line:56] d:\python\homework3\0303\数据处理\log\admin.log INFO login successfully
+2018-09-30 17:31:33,775 dataprocess.py [line:72] d:\python\homework3\0303\数据处理\log\admin.log INFO admin register as ADMIN successfully, auto exit
+2018-10-08 10:37:55,086 dataprocess.py [line:56] d:\python\homework3\0303\数据处理\log\admin.log INFO login successfully
+2018-10-08 10:38:31,817 dataprocess.py [line:72] d:\python\homework3\0303\数据处理\log\admin.log INFO admin register as ADMIN successfully, auto exit
+2018-10-08 10:40:28,837 dataprocess.py [line:56] d:\python\homework3\0303\数据处理\log\admin.log INFO login successfully
+2018-10-08 10:46:07,872 dataprocess.py [line:72] d:\python\homework3\0303\数据处理\log\admin.log INFO admin register as ADMIN successfully, auto exit
+2018-10-08 10:46:29,509 dataprocess.py [line:56] d:\python\homework3\0303\数据处理\log\admin.log INFO login successfully
+2018-10-08 10:46:58,405 dataprocess.py [line:56] d:\python\homework3\0303\数据处理\log\admin.log INFO login successfully
+2018-10-08 11:22:46,180 dataprocess.py [line:56] d:\python\homework3\0303\数据处理\log\admin.log INFO login successfully
+2018-10-08 11:33:47,810 dataprocess.py [line:56] d:\python\homework3\0303\数据处理\log\admin.log INFO login successfully

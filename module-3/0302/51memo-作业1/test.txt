@@ -1,0 +1,30 @@
+PS D:\python\homework3\0302> cd 'd:\python\homework3\0302'; ${env:PYTHONIOENCODING}='UTF-8'; ${env:PYTHONUNBUFFERED}='1'; & 'C:\Users\wuchongyao\AppData\Local\conda\conda\envs\wcy\python.exe' 'c:\Users\wuchongyao\.vscode\extensions\ms-python.python-2018.7.1\pythonFiles\PythonTools\visualstudio_py_launcher.py' 'd:\python\homework3\0302' '50545' '34806ad9-833a-4524-8cd6-18ca4aa74f14' 'RedirectOutput,RedirectOutput' 'd:\python\homework3\0302\51memo\51memo_v0302.py'
+d:\python\homework3\0302
+please input memo name:wcy
+please input password:260817
+wcy 260817
+2018-09-12 18:00:49,403 51memo_v0302.py [line:132] WCY-LOG INFO login successfully
+1: add, 2: delete, 3: modify, 4: query, q:退出
+4
+please input the month:9
+{"1": "wcytest-01 2018-09-12 17:45:42", "2": "wcytest-02 2018-09-12 17:45:57"}
+1: add, 2: delete, 3: modify, 4: query, q:退出
+1
+please input memo in thing format:test-03
+[{1: 'wcytest-01 2018-09-12 17:45:42'}, {2: 'wcytest-02 2018-09-12 17:45:57'}, {3: 'wcytest-03 2018-09-12 18:00:54'}]
+1: add, 2: delete, 3: modify, 4: query, q:退出
+2
+please input the memo kid:1
+删除前:
+[{1: 'wcytest-01 2018-09-12 17:45:42'}, {2: 'wcytest-02 2018-09-12 17:45:57'}, {3: 'wcytest-03 2018-09-12 18:00:54'}]
+删除后:
+[{2: 'wcytest-02 2018-09-12 17:45:57'}, {3: 'wcytest-03 2018-09-12 18:00:54'}]
+1: add, 2: delete, 3: modify, 4: query, q:退出
+3
+please input memo in thing format:test-04
+please input the memo kid:2
+修改前:
+[{2: 'wcytest-02 2018-09-12 17:45:57'}, {3: 'wcytest-03 2018-09-12 18:00:54'}]
+修改后:
+[{2: 'wcy test-04 2018-09-12 18:02:41'}, {3: 'wcytest-03 2018-09-12 18:00:54'}]
+1: add, 2: delete, 3: modify, 4: query, q:退出
